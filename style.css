@@ -1,0 +1,21 @@
+#snippets {
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+}
+
+.snippet {
+    flex: 1 0 0;
+    border: 1px dashed black;
+    width: 350px;
+    min-height: 100%;
+    margin: 15px;
+}
+
+.snippet-title {
+    
+}
+
+.snippet-body {
+    
+}
